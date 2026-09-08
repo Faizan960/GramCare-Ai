@@ -13,7 +13,7 @@
 - **M. Faizan Patel**
 - **Yasa Ghanchi**
 - **Niranjan Mohite**
-- **Yash S. Waghela**
+- **Suaban Shaikh**
 
 **Project Duration:** 3–4 months / approximately 16 weeks  
 **Project Stage:** Review 2 / System Design & Implementation Planning
